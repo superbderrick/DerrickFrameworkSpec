@@ -1,4 +1,3 @@
-# Blossom_Android
+# DerrickFrameworkSpec
 
-branch Test
-Blossom_App for Android 
+
